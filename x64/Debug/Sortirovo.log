@@ -1,0 +1,6 @@
+﻿  Sortirovo.cpp
+C:\Users\Ray\source\repos\Sortirovo\Sortirovo\Sortirovo.cpp(224,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ray\source\repos\Sortirovo\Sortirovo\Sortirovo.cpp(226,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ray\source\repos\Sortirovo\Sortirovo\Sortirovo.cpp(232,28): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ray\source\repos\Sortirovo\Sortirovo\Sortirovo.cpp(273,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Sortirovo.vcxproj -> C:\Users\Ray\source\repos\Sortirovo\x64\Debug\Sortirovo.exe
